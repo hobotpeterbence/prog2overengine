@@ -1,0 +1,9 @@
+dash
+dash-html-components
+dash-core-components
+plotly
+gunicorn
+pandas
+sklearn
+dask
+dask_ml
